@@ -20,7 +20,7 @@ We're excited that you want to contribute! This document outlines how to partici
 Found a bug or have a feature idea?
 
 **Before opening an issue:**
-- Check [existing issues](https://github.com/unfassbarstephan/claude-wrap-up/issues)
+- Check [existing issues](https://github.com/stephanbuettig/claude-wrap-up/issues)
 - Run the latest version: `git pull && bash setup`
 - Verify the problem persists
 
@@ -149,7 +149,7 @@ docs/what-you-updated     # Documentation
 
 ## Questions?
 
-- **Issues:** [GitHub Issues](https://github.com/unfassbarstephan/claude-wrap-up/issues)
+- **Issues:** [GitHub Issues](https://github.com/stephanbuettig/claude-wrap-up/issues)
 
 ---
 

@@ -35,7 +35,7 @@ Think of it as a **living feedback loop** between Claude, your codebase, and you
 ### Install
 
 ```bash
-git clone https://github.com/unfassbarstephan/claude-wrap-up.git
+git clone https://github.com/stephanbuettig/claude-wrap-up.git
 cd claude-wrap-up
 bash setup
 ```
@@ -337,7 +337,7 @@ A: Phases 0–5 are sequential steps in a single wrap-up session. Confidence cla
 
 ## Credits
 
-Built by **Stephan** ([@unfassbarstephan](https://github.com/unfassbarstephan)) with [Claude Code](https://claude.com/claude-code).
+Built by **Stephan** ([@stephanbuettig](https://github.com/stephanbuettig)) with [Claude Code](https://claude.com/claude-code).
 
 Inspired by hard-learned lessons in marketing automation, feed optimization, and the endless battle against documentation drift.
 
@@ -345,4 +345,4 @@ Inspired by hard-learned lessons in marketing automation, feed optimization, and
 
 ---
 
-**License:** MIT • **Repo:** [github.com/unfassbarstephan/claude-wrap-up](https://github.com/unfassbarstephan/claude-wrap-up)
+**License:** MIT • **Repo:** [github.com/stephanbuettig/claude-wrap-up](https://github.com/stephanbuettig/claude-wrap-up)

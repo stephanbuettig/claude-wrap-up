@@ -28,7 +28,7 @@ bash --version           # Bash 4.0+ (optional)
 ## Quick Install
 
 ```bash
-git clone https://github.com/unfassbarstephan/claude-wrap-up.git
+git clone https://github.com/stephanbuettig/claude-wrap-up.git
 cd claude-wrap-up
 bash setup
 ```
@@ -281,4 +281,4 @@ rm -rf ~/.claude/skills/wrap-up/
 
 ---
 
-**Need help?** Open an issue: [github.com/unfassbarstephan/claude-wrap-up/issues](https://github.com/unfassbarstephan/claude-wrap-up/issues)
+**Need help?** Open an issue: [github.com/stephanbuettig/claude-wrap-up/issues](https://github.com/stephanbuettig/claude-wrap-up/issues)
