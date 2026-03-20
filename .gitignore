@@ -1,0 +1,82 @@
+# Wrap-Up State and Cache
+.wrap-up/
+~/.wrap-up/
+.state/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+.env.local
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test Results
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+
+# Build
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Git Hooks (local setup)
+.git/hooks/post-commit
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
