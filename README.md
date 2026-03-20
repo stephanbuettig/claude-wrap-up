@@ -135,13 +135,13 @@ Phase 5: COMMIT
 
 These hardened principles protect your rule system from decay:
 
-1. **Evidenzpflicht (Evidence Requirement)** — No rule without documented trigger (session, date, context)
-2. **Wiederholungsschwelle (Repetition Threshold)** — Single observations don't become rules; require ≥2 occurrences (HIGH) or ≥3 (MEDIUM→HIGH promotion)
-3. **Generalisierungstest (Generalization Test)** — Does this rule apply everywhere or only in specific contexts? Task-specific rules go to .claude/rules/, not CLAUDE.md
-4. **Widerspruchsprüfung (Contradiction Check)** — Before proposing a new rule, check: Does it conflict with existing rules? Which is newer/better-justified?
-5. **200-Zeilen-Limit (200-Line Limit)** — CLAUDE.md is checked on every wrap-up. Exceeding 200 lines triggers extraction recommendation to .claude/rules/
-6. **Ablaufdatum (Expiration Date)** — Rules not relevant for extended periods are marked "possibly stale" during periodic `/wrap-up-review`
-7. **Gegenbeispiel-Check (Counterexample Check)** — For each HIGH rule: Are there legitimate cases where it shouldn't apply? If yes, phrase as conditional
+1. **Evidence Requirement** — No rule without documented trigger (session, date, context)
+2. **Repetition Threshold** — Single observations don't become rules; require ≥2 occurrences (HIGH) or ≥3 (MEDIUM→HIGH promotion)
+3. **Generalization Test** — Does this rule apply everywhere or only in specific contexts? Task-specific rules go to .claude/rules/, not CLAUDE.md
+4. **Contradiction Check** — Before proposing a new rule, check: Does it conflict with existing rules? Which is newer/better-justified?
+5. **200-Line Limit** — CLAUDE.md is checked on every wrap-up. Exceeding 200 lines triggers extraction recommendation to .claude/rules/
+6. **Expiration Date** — Rules not relevant for extended periods are marked "possibly stale" during periodic `/wrap-up-review`
+7. **Counterexample Check** — For each HIGH rule: Are there legitimate cases where it shouldn't apply? If yes, phrase as conditional
 
 ---
 
